@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "279799714977",
+    "firebase_url": "https://chemengqsas.firebaseio.com",
+    "project_id": "chemengqsas",
+    "storage_bucket": "chemengqsas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279799714977:android:077ad0d3082b62cafecce0",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279799714977-7q1lgj4puireug2q0h16pjis8jrdcnii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPhol-qjbtta2d9ZJm9uHoqeXN6fMalw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279799714977-7q1lgj4puireug2q0h16pjis8jrdcnii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
